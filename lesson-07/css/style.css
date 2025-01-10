@@ -1,0 +1,14 @@
+#hero {
+    color: yellow;
+}
+h1 {
+    color: blue;
+    font-size: 20px;
+}
+h1 {
+    color: red;
+    font-style:italic ;
+}
+.title.text {
+    color: darkgreen;
+}
